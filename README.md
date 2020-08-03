@@ -10,6 +10,6 @@ Hi, Sean Baang, a Information Technology student from the **Philippines** :phili
 *NOTE: Most Used Languages does not indicate my skill level, it only indicates mostly the languages I used on github.*
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=m0L3cuL3&show_icons=true&theme=tokyonight)
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=m0L3cuL3&theme=tokyonight&layout=compact)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=m0L3cuL3&theme=tokyonight)
 
 
