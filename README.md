@@ -1,7 +1,7 @@
 
 __Hi there, I'm [CodeJourney](https://github.com/m0L3cuL3)!__ :wave:
 
-Hi, I'm CodeJourney also known as m0L3cuL3, a Information Technology student from the **Philippines** :philippines:.
+Hi, I'm CodeJourney also known as **m0L3cuL3**, a Information Technology student from the **Philippines** :philippines:.
 
 + :dart: I'm currently learning **_cybersecurity_** and **_networking_**.
 + :jigsaw: This 2020 I want to contribute more projects on my github profile.
