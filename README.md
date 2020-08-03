@@ -7,6 +7,7 @@ Hi, Sean Baang, a Information Technology student from the **Philippines** :phili
 + :bowtie: This 2020 I want to contribute more projects in my github profile.
 
 
+*NOTE: Most Used Languages does not indicate my skill level, it only indicates mostly the languages I used on github.*
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=m0L3cuL3)
 
 ![m0L3cuL3 github stats](https://github-readme-stats.vercel.app/api?username=m0L3cuL3&show_icons=true&theme=radical)
