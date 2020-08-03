@@ -3,7 +3,7 @@ __Hi there, I'm [Sean Baang](https://www.twitter.com/SeanBaang)!__ :wave:
 
 Hi, Sean Baang, a Information Technology student from the **Philippines** :philippines:.
 
-+ :dart: I'm currently learning _cybersecurity_** and _networking_**.
++ :dart: I'm currently learning **_cybersecurity_** and **_networking_**.
 + :jigsaw: This 2020 I want to contribute more projects on my github profile.
 
 
