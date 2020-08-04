@@ -1,7 +1,8 @@
 
-__Hi there, I'm [CodeJourney](https://github.com/m0L3cuL3)!__ :wave:
+__Hi there, I'm [m0L3cuL3](https://github.com/m0L3cuL3)! also known as Sean Baang__ :wave:
 
-Hi, I'm CodeJourney also known as **m0L3cuL3**, a Information Technology student from the **Philippines** :philippines:.
+Hi, I'm **m0L3cuL3**, a Information Technology student from the **Philippines** :philippines:.
+I'm a member of **CodeJourney**
 
 + :dart: I'm currently learning **_cybersecurity_** and **_networking_**.
 + :jigsaw: This 2020 I want to contribute more projects on my github profile.
