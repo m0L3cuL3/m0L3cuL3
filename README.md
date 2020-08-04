@@ -13,7 +13,11 @@ I'm also a member of **CodeJourney**.
 In this group, it doesn't matter if you're new or a veteran.
 Our goal is to see the beauty of coding. No matter how simple your code is, show it to everyone.
 
+## My Stats :smile:
+
 *NOTE: Most Used Languages does not indicate my skill level, it only indicates mostly the languages I used on github.*
+
+*CREDITS: To [Anurag](https://github.com/anuraghazra) for [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=m0L3cuL3&show_icons=true&theme=tokyonight)
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=m0L3cuL3&theme=tokyonight)
