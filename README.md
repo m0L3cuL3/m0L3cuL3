@@ -8,7 +8,7 @@ I'm also a member of **CodeJourney**.
 + :dart: I'm currently creating the website of **__CodeJourney__**.
 + :jigsaw: This 2020 I want to contribute more projects on my github profile.
 
-### What is CodeJourney?
+## What is CodeJourney?
 **__CodeJourney__** is a group, where everyone can explore the world of coding.
 In this group, it doesn't matter if you're new or a veteran.
 Our goal is to see the beauty of coding. No matter how simple your code is, show it to everyone.
