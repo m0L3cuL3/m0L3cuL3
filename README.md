@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/seanbaang" target="blank"><img src="https://img.shields.io/twitter/follow/seanbaang?logo=twitter&style=for-the-badge" alt="seanbaang" /></a> </p>
 
-- 🔭 I’m currently working on [PCHS Finance System](https://github.com/m0L3cuL3/financial-system)
+- 🔭 I’m currently working on **Course Syllabus Builder**
 
-- 🌱 I’m currently learning **Cybersecurity and Networking**
+- 🌱 I’m currently learning **Frappe Framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
