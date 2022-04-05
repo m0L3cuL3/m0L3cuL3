@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sean Baang</h1>
-<h3 align="center">A passionate developer from Philippines</h3>
+![header](header.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0l3cul3&label=Profile%20views&color=0e75b6&style=flat" alt="m0l3cul3" /> </p>
 
