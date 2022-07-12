@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/seanbaang" target="blank"><img src="https://img.shields.io/twitter/follow/seanbaang?logo=twitter&style=for-the-badge" alt="seanbaang" /></a> </p>
 
-- 🔭 I’m currently working on **Course Syllabus Builder**
+- 🔭 I’m currently working on **Nothing** for now. :smiley:
 
-- 🌱 I’m currently learning **Frappe Framework**
+- 🌱 I’m currently learning **PHP** and **Laravel**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
