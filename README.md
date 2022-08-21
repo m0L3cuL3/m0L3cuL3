@@ -1,4 +1,4 @@
-![header](head.PNG)
+![header](Cover.png)
 
 <h3 align="center">Current Status:</h3>
 
