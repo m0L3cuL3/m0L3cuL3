@@ -2,9 +2,9 @@
 
 <h3 align="center">Current Status:</h3>
 
-<p align="center">🔭 I’m currently working on <strong>Nothing</strong> for now. :smiley:</p>
+<p align="center">🔭 I’m currently working on my personal project <strong>System Information App using Electron & Vue3</strong>.</p>
 
-<p align="center">🌱 I’m currently learning <strong>PHP</strong> and <strong>Laravel</strong>.</p>
+<p align="center">🌱 I’m currently learning <strong>GraphQL</strong> and <strong>Typescript</strong>.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
